@@ -1,0 +1,13 @@
+{
+    "name": "gsl/csv-utils",
+    "description": "work with csv's in php cli scripts",
+    "require": {
+        "wp-cli/php-cli-tools": "^0.10.4"
+    },
+    "authors": [
+        {
+            "name": "ginkgoMZD",
+            "email": "mzd@ginkgostreet.com"
+        }
+    ]
+}
